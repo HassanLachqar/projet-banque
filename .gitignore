@@ -1,0 +1,11 @@
+
+# Visual Studio
+.vs/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+
+# Optional: VS Code settings
+# .vscode/
